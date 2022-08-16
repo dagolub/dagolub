@@ -7,4 +7,4 @@
 - 💬 Ask me about Python
 - 📫 My CV: [Developer](https://github.com/dagolub/cv/blob/master/Dmitriy_Golub_Python_Developer.pdf) and [Technical Project Manager](https://github.com/dagolub/cv/blob/master/Dmitriy_Golub_Senior_Technical_Project_Manager.pdf) closed for opportunities :sadfrog:
 - https://t.me/fastapi_ua
-- https://mongodb.tech
+- https://mongo.one
