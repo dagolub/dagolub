@@ -1,4 +1,8 @@
-[
+[ {
+    "name": "Vova",
+    "city": "Kyiv",
+    "tz": "Europe/Kiev"
+  },
   {
     "name": "Taras",
     "avatar": "file:///home/dg/taras.jpg",
